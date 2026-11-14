@@ -1,0 +1,7 @@
+# Weekly updates. Keeps the pinned action SHAs and dependencies current.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
